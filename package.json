@@ -1,0 +1,18 @@
+{
+  "name": "gafferbot",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "FoxedDev",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {},
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "eslint": "^9.32.0"
+  }
+}
